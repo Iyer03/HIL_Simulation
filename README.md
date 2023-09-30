@@ -1,3 +1,3 @@
 # HIL_Simulation
 
-10.5281/zenodo.8395789
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8395789.svg)](https://doi.org/10.5281/zenodo.8395789)
